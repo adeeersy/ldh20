@@ -1,2 +1,5 @@
 # ldh20
-hi test
+Hello, my name is Adira Sayidina!
+NPM:
+Class:
+GitHub Account:
